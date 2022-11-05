@@ -1,0 +1,15 @@
+/Users/lauralopez/Documents/ESTUDIOS/C#/PrimerDesafio/PrimerDesafio/bin/Debug/net6.0/PrimerDesafio
+/Users/lauralopez/Documents/ESTUDIOS/C#/PrimerDesafio/PrimerDesafio/bin/Debug/net6.0/PrimerDesafio.deps.json
+/Users/lauralopez/Documents/ESTUDIOS/C#/PrimerDesafio/PrimerDesafio/bin/Debug/net6.0/PrimerDesafio.runtimeconfig.json
+/Users/lauralopez/Documents/ESTUDIOS/C#/PrimerDesafio/PrimerDesafio/bin/Debug/net6.0/PrimerDesafio.dll
+/Users/lauralopez/Documents/ESTUDIOS/C#/PrimerDesafio/PrimerDesafio/bin/Debug/net6.0/PrimerDesafio.pdb
+/Users/lauralopez/Documents/ESTUDIOS/C#/PrimerDesafio/PrimerDesafio/obj/Debug/net6.0/PrimerDesafio.csproj.AssemblyReference.cache
+/Users/lauralopez/Documents/ESTUDIOS/C#/PrimerDesafio/PrimerDesafio/obj/Debug/net6.0/PrimerDesafio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lauralopez/Documents/ESTUDIOS/C#/PrimerDesafio/PrimerDesafio/obj/Debug/net6.0/PrimerDesafio.AssemblyInfoInputs.cache
+/Users/lauralopez/Documents/ESTUDIOS/C#/PrimerDesafio/PrimerDesafio/obj/Debug/net6.0/PrimerDesafio.AssemblyInfo.cs
+/Users/lauralopez/Documents/ESTUDIOS/C#/PrimerDesafio/PrimerDesafio/obj/Debug/net6.0/PrimerDesafio.csproj.CoreCompileInputs.cache
+/Users/lauralopez/Documents/ESTUDIOS/C#/PrimerDesafio/PrimerDesafio/obj/Debug/net6.0/PrimerDesafio.dll
+/Users/lauralopez/Documents/ESTUDIOS/C#/PrimerDesafio/PrimerDesafio/obj/Debug/net6.0/refint/PrimerDesafio.dll
+/Users/lauralopez/Documents/ESTUDIOS/C#/PrimerDesafio/PrimerDesafio/obj/Debug/net6.0/PrimerDesafio.pdb
+/Users/lauralopez/Documents/ESTUDIOS/C#/PrimerDesafio/PrimerDesafio/obj/Debug/net6.0/PrimerDesafio.genruntimeconfig.cache
+/Users/lauralopez/Documents/ESTUDIOS/C#/PrimerDesafio/PrimerDesafio/obj/Debug/net6.0/ref/PrimerDesafio.dll
